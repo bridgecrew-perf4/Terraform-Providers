@@ -7,7 +7,7 @@ require (
 	cloud.google.com/go/logging v1.1.2
 	cloud.google.com/go/storage v1.12.0
 	github.com/Azure/azure-sdk-for-go v42.0.0+incompatible
-	github.com/Azure/azure-storage-blob-go v0.10.0
+	github.com/Azure/azure-storage-blob-go v0.12.0
 	github.com/Azure/go-autorest/autorest v0.11.12
 	github.com/DataDog/datadog-api-client-go v1.0.0-beta.9
 	github.com/IBM-Cloud/bluemix-go v0.0.0-20201210085054-cdf09378fdd9
@@ -23,7 +23,7 @@ require (
 	github.com/aws/aws-sdk-go v1.36.7
 	github.com/aws/aws-sdk-go-v2 v0.24.0
 	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
-	github.com/cloudflare/cloudflare-go v0.13.5
+	github.com/cloudflare/cloudflare-go v0.13.6
 	github.com/ddelnano/terraform-provider-mikrotik v0.0.0-20200501162830-a217572b326c
 	github.com/denverdino/aliyungo v0.0.0-20200327235253-d59c209c7e93
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
